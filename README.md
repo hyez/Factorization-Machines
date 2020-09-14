@@ -7,7 +7,6 @@
 
 
 ## Run
-1. get pip
 ```
 $ git clone https://github.com/HYEZ/Factorization-Machines-Movielens.git
 $ cd Factorization-Machines-Movielens
